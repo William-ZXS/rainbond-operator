@@ -12,7 +12,7 @@ require (
 	github.com/docker/cli v0.0.0-20191017083524-a8ff7f821017
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/docker v20.10.2+incompatible
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.7.0
 	github.com/go-logr/logr v0.3.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/gogo/googleapis v1.4.1 // indirect
